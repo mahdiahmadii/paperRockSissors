@@ -1,4 +1,4 @@
-# paperRockSissors
+by# paperRockSissors
 
 This game is a simulation of the classic rock-paper-scissors game, created using Kotlin. It allows you to play against another player or against the computer in single-player mode. For the best experience, it is recommended to run the game in Gnome terminal.
 
@@ -54,6 +54,6 @@ Feel free to use, modify, and distribute this game as per the terms of the licen
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact me at [your-email@example.com].
+If you have any questions, suggestions, or feedback, please feel free to contact me at [mahdi2003ahmadi82@gmail.com].
 
 Happy gaming!
